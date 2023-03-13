@@ -41,7 +41,7 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Alpha" //namabot kalian
+global.botname = "slate slare" //namabot kalian
 global.ownername = "slate" //nama kalian
 global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
